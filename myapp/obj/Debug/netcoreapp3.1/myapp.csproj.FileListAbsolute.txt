@@ -1,0 +1,13 @@
+D:\SeminariumMagisterskie\myapp\bin\Debug\netcoreapp3.1\myapp.exe
+D:\SeminariumMagisterskie\myapp\bin\Debug\netcoreapp3.1\myapp.deps.json
+D:\SeminariumMagisterskie\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.json
+D:\SeminariumMagisterskie\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.dev.json
+D:\SeminariumMagisterskie\myapp\bin\Debug\netcoreapp3.1\myapp.dll
+D:\SeminariumMagisterskie\myapp\bin\Debug\netcoreapp3.1\myapp.pdb
+D:\SeminariumMagisterskie\myapp\obj\Debug\netcoreapp3.1\myapp.csprojAssemblyReference.cache
+D:\SeminariumMagisterskie\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfoInputs.cache
+D:\SeminariumMagisterskie\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfo.cs
+D:\SeminariumMagisterskie\myapp\obj\Debug\netcoreapp3.1\myapp.csproj.CoreCompileInputs.cache
+D:\SeminariumMagisterskie\myapp\obj\Debug\netcoreapp3.1\myapp.dll
+D:\SeminariumMagisterskie\myapp\obj\Debug\netcoreapp3.1\myapp.pdb
+D:\SeminariumMagisterskie\myapp\obj\Debug\netcoreapp3.1\myapp.genruntimeconfig.cache
